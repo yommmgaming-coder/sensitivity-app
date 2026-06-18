@@ -1,0 +1,6 @@
+{
+  "name": "AI Free Fire Sensitivity Pro",
+  "description": "Unlock your ultimate performance in Free Fire with personalized AI-recommended sensitivities, custom DPI, device optimization tips, professional HUD layouts, and interactive training drills custom-crafted for your phone model.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
